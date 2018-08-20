@@ -1,0 +1,11 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,9.0.0*%
+%TF.CreationDate,2018-05-04T09:23:22Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Brian Benchoff <benchoff@gmail.com>*%
+%TJ.B_ID,MRRobotBadge*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+M02*
