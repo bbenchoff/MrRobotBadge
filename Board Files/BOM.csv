@@ -1,0 +1,21 @@
+﻿component,package,quantity,URL,Cost
+4.7uF capacitor,805,2,,1
+0.1uF(100nF) capacitor,805,3,,1
+1uF capacitor,805,3,,1
+red LED,603,324,,8
+68 resistor,805,36,,1
+1M resistor,805,1,,1
+1.02M resistor,805,1,,1
+332k resistor,805,1,,1
+4.7k resistor      ,805,2,,1
+10k resistor,805,5,,1
+SPST SMD Momentary Tactile Switch 5x5x2.5mm, 5x5,6,https://www.ebay.com/itm/312536439453,1
+KEYSTONE 1028 AA battery holder,,2,https://www.digikey.com/product-detail/en/1028/36-1028-ND/303553/?itemSeq=300800054,3.74
+Alps SSSS810701 (1P2T SPDT Horizontal),,1,https://www.ebay.com/itm/233173197371,1
+IS31FL3741,QFN60,1,https://www.digikey.com/product-detail/en/IS31FL3741-QFLS4-TR/706-1662-1-ND/9169513/?itemSeq=300800433,3.68
+AAT1217,SOT23-6,1,https://www.digikey.com/product-detail/en/AAT1217ICA-1.2-T1/863-1495-1-ND/4246169/?itemSeq=300800151,1.02
+LM1117-3.3,SOT223,1,https://www.digikey.com/product-detail/en/LM1117MPX-3.3%2fNOPB/LM1117MPX-3.3%2fNOPBCT-ND/1010516/?itemSeq=300800341,1.14
+CDRH4D28CNP-4R7PC        ,,1,https://www.digikey.com/product-detail/en/sumida-america-components-inc/CDRH4D28CNP-4R7PC/308-2043-1-ND/3946624,1.09
+ESP12E,,1,https://www.ebay.com/itm/383003718778,1
+,,,,
+,,,,30.67
